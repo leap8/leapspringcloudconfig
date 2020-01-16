@@ -1,3 +1,7 @@
 leap:
   config:
     msg: 你好staging
+  redis:
+    port: 6379
+    url: 127.0.0.1
+    password: s111111
