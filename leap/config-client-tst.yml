@@ -1,7 +1,7 @@
 leap:
   config:
     client:
-        message: 你好release
+        message: 你好tst
         version: tst.1.0.0
         label: 来自github
   redis:
